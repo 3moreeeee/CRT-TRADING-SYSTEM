@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+/config.py
 crt_backtest_output/
 data_crt/
 data_crt_h1/
